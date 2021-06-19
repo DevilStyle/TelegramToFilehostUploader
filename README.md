@@ -8,9 +8,9 @@
 #### Clone
 
 ```sh
-git clone https://github.com/AbhijithNT/TelegramFiletoCloud.git
+git clone https://github.com/DevilStyle/TelegramToFilehostUploader.git
 
-cd TelegramFiletoCloud
+cd TelegramToFilehostUploader
 
 ```
 
@@ -35,9 +35,3 @@ class Config:
 python3 -m bot
 ```
 
-### Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhijith-cloud/Telegram-MixDrop-Bot/)
-
-## :clap:  Supporters
-[![Stargazers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/stars/AbhijithNT/TelegramFiletoCloud)](https://github.com/Abhijith-cloud/TelegramFiletoCloud/stargazers)
-[![Forkers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/forks/AbhijithNT/TelegramFiletoCloud)](https://github.com/Abhijith-cloud/TelegramFiletoCloud/network/members)

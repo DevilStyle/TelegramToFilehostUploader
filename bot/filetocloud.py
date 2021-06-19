@@ -25,9 +25,9 @@ class CloudBot(Client):
 
     async def start(self):
         await super().start()
-        LOGGER.info(f"BOT IS STARTED {datetime.datetime.now()}")
-        print(f"BOT IS STARTED ")
+        LOGGER.info(f"BOT AVVIATO {datetime.datetime.now()}")
+        print(f"BOT AVVIATO ")
 
     async def stop(self, *args):
-        LOGGER.info(f"BOT IS STOPPED {datetime.datetime.now()}")
+        LOGGER.info(f"BOT FERMATO {datetime.datetime.now()}")
         await super().stop()
