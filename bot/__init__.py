@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-# This is bot coded by Abhijith N T and used for educational purposes only
-# https://github.com/AbhijithNT
-# Copyright ABHIJITH N T
+# This is bot coded by DevilStyle and used for educational purposes only
+# https://github.com/DevilStyle
+# Copyright DevilStyle
 # Thank you https://github.com/pyrogram/pyrogram
 
 import os
