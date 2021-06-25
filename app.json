@@ -5,7 +5,7 @@
   "keywords": ["telegram", "pyrogram", "telegram bot"],
   "env": {
     "ENV": {
-      "description": "Set it to anything to enable configuration by environment variables.",
+      "description": "Set it to anything to eenable configuration by environment variables.",
       "value": "True"
     },
     "BOT_TOKEN": {
